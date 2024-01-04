@@ -4,6 +4,10 @@ pdb_rmsd.sh - calculated rmsd over the course of the trajectory
 
 radgyr.sh - calculates radius of gyration for specified atoms 
 
+rmsd-ipynb - plotting rmsd through the trajectories
+
+rmsf.ipynb - plotting rmsf per residue with secondary structure indicated 
+
 rmsf.sh - calculates rmsf over the course of the trajectory
 
 sasa.sh - calculates the overall surface area of all solute atoms
