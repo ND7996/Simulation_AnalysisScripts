@@ -10,6 +10,8 @@ rmsf.ipynb - plotting rmsf per residue with secondary structure indicated
 
 rmsf.sh - calculates rmsf over the course of the trajectory
 
+rmsf_boxhighlight.ipynb - plotting the fluctuating regions with box patches
+
 sasa.sh - calculates the overall surface area of all solute atoms
 
 seconstr.sh - Average structural propensities for all frames will be written to the file specified by sumout
